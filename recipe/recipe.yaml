@@ -1,5 +1,5 @@
 context:
-  version: "1.4.0"
+  version: "1.5.0"
 
 package:
   name: courlan
@@ -7,7 +7,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/c/courlan/courlan-${{ version }}.tar.gz
-    sha256: fbbac7b7fcde2195ea08e707609503c81cf39c891e8d26cdb1fed4585782d63d
+    sha256: 68adfdef9eed04240ce081d4fc9faf796db0e820795e9cc545b822aed8d26fc0
 
 build:
   number: 0
